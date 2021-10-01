@@ -27,4 +27,5 @@ def bubble_sort(array):
         if already_sorted:
             break
 
+
     return array

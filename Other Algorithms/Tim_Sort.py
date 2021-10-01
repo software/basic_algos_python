@@ -30,3 +30,5 @@ def insertion_sort(array, left=0, right=None):
         array[j + 1] = key_item
 
     return array
+
+    
